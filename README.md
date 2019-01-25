@@ -12,6 +12,9 @@
 - [The prevention and handling of missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
 - [Imputation with Not Missing at Random Data](http://www.stefvanbuuren.nl/mi/docs/mnar.pdf)
 - [How One 19-Year-Old Illinois Man Is Distorting National Polling Averages - NYTimes](https://www.nytimes.com/2016/10/13/upshot/how-one-19-year-old-illinois-man-is-distorting-national-polling-averages.html)
+- [Article about Rubin's Rules](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2727536/)
+- [IBM Walkthrough of Rubin's Rules](https://www.ibm.com/support/knowledgecenter/de/SSLVMB_22.0.0/com.ibm.spss.statistics.algorithms/alg_mi-pooling_rubin_combine.htm)
+- [R Code for Implementing Rubin's Rules](https://stefvanbuuren.name/mice/reference/pool.html)
 
 ### Feel free to contact me afterward!
 - [LinkedIn](https://www.linkedin.com/in/matthewbrems)
